@@ -13,7 +13,7 @@ class Anagram
 
     array.find do |array_word|
       binding.pry
-      word.split("") == array_word.split("")
+      word.split("").sort == array_word.split("").sort
     end
 
 
