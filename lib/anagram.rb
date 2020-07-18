@@ -12,7 +12,7 @@ class Anagram
   def match(array)
 
 
-    #return all matches in 
+    #return all matches in an array
 
   end
 
