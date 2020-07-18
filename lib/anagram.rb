@@ -13,7 +13,7 @@ class Anagram
 
 
     #return all matches in an array
-    #if no matches exist, 
+    #if no matches exist, return empty array
 
   end
 
