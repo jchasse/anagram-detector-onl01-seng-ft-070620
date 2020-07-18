@@ -7,13 +7,15 @@ class Anagram
 
   def initialize (word)
     @word = word
-
   end
 
   def match(array)
 
+    array.collect
+
+
     if word.split("").sort == #iterate over array words
-      
+
     if
 
     binding.pry
