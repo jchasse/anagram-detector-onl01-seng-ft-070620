@@ -13,6 +13,10 @@ class Anagram
   def match(array)
 
 
+    # You'll need to iterate over the array of words that the .match method takes as an argument.
+    # You will compare each word of that array to the word that the Anagram class is initialized with.
+
+
     #return all matches in an array
     #if no matches exist, return empty array
 
