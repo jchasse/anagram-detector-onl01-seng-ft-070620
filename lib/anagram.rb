@@ -12,7 +12,7 @@ class Anagram
 
   def match(array)
 
-    if word.split("")
+    if word.split("").sort == 
 
     if
 
