@@ -12,8 +12,8 @@ class Anagram
 
   def match(array)
 
-    if word.split("").sort == 
-
+    if word.split("").sort == #iterate over array words
+      
     if
 
     binding.pry
