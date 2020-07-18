@@ -17,16 +17,6 @@ class Anagram
     end
 
 
-
-
-
-    if word.split("").sort == #iterate over array words
-
-    if
-
-    binding.pry
-
-
     # You'll need to iterate over the array of words that the .match method takes as an argument.
     # You will compare each word of that array to the word that the Anagram class is initialized with.
 
