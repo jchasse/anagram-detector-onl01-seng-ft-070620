@@ -15,6 +15,7 @@ class Anagram
       # binding.pry
       if word.split("").sort == array_word.split("").sort
         anagram_array << array_world
+      end
     end
     anagram_array
   end
