@@ -2,4 +2,13 @@
 require "pry"
 
 
-class 
+class Anagram
+
+  
+
+
+
+
+
+
+end
