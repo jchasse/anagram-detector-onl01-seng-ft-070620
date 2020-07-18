@@ -12,7 +12,11 @@ class Anagram
   def match(array)
 
     array.find do |array_word|
+      binding.pry
       word.split("") == array_word.split("")
+    end
+
+
 
 
 
