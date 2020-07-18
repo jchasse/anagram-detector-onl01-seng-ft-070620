@@ -11,7 +11,9 @@ class Anagram
 
   def match(array)
 
-    array.collect
+    array.find do |array_word|
+      if word.split("") == array_word.split("")
+        return 
 
 
     if word.split("").sort == #iterate over array words
